@@ -1,0 +1,87 @@
+# LAB - [Lab Name]
+
+<sub>Google Cybersecurity Professional Certificate | [Module Name]</sub>
+
+## 1. Objective
+
+Describe the main objective of this lab.
+
+What security concept, tool, or technical skill is being explored?
+
+## 2. Environment and Tools
+
+**Operating System:** [e.g. Ubuntu Linux]
+
+**Tools Used:**
+- [Tool 1]
+- [Tool 2]
+
+**Technologies:** [e.g. Linux, SQL, Wireshark]
+
+## 3. Scenario
+
+Describe the problem, challenge, or situation presented in the lab.
+
+What was the task?
+
+What needed to be investigated or accomplished?
+
+## 4. Methodology and Execution
+
+Document the steps performed during the lab.
+
+### Step 1 - [Description]
+
+Explain what was done and why.
+
+```bash
+# Insert commands here
+```
+
+### Step 2 - [Description]
+
+Explain the next procedure.
+
+```bash
+# Insert commands here
+```
+
+## 5. Evidence and Results
+
+Include screenshots, command outputs, configurations, or other relevant evidence.
+
+**Evidence 1 - [Description]**
+
+![Evidence 1](evidence/screenshot-01.png)
+
+**Results:**
+
+Describe what was observed during the exercise.
+
+## 6. Technical Analysis
+
+Explain the technical findings.
+
+- What did you identify?
+- Why is this important from a cybersecurity perspective?
+- What security risks or vulnerabilities were observed?
+- How could this knowledge be applied in a real environment?
+
+## 7. Key Takeaways
+
+Summarize the most important concepts and skills learned.
+
+- [Learning 1]
+- [Learning 2]
+- [Learning 3]
+
+## 8. References
+
+- Google Cybersecurity Professional Certificate - Coursera
+- [Additional documentation or references]
+
+---
+
+**Lab Status:** Completed
+
+**Author:** Fernando Alves
