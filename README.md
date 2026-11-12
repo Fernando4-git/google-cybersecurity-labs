@@ -1,9 +1,8 @@
 # Google Cybersecurity Professional Certificate
 
-\<p align="center">
-&#x20; \<strong>Cybersecurity Learning Journey | Hands-on Labs | Technical Documentation\</strong>
-\</p>
+**Cybersecurity Learning Journey | Hands-on Labs | Technical Documentation**
 
+---
 ## About This Repository
 
 Welcome to my Google Cybersecurity Professional Certificate repository!
